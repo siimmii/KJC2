@@ -1,8 +1,12 @@
 hi
 <<<<<<< HEAD
+<<<<<<< HEAD
 heloo
 how are you
 hope 
+=======
+heloo how r u
+>>>>>>> 03ff4a88ffc39f5c08ce310902e05ef464d0c294
 =======
 heloo how r u
 >>>>>>> 03ff4a88ffc39f5c08ce310902e05ef464d0c294
